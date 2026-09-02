@@ -4,9 +4,9 @@ Aplicación web ASP.NET (C#, Web Forms) para la administración de Clientes, Pro
 
 ## Contenido del repositorio
 
-- `/EmpresaWeb` — código fuente completo de la aplicación (Web Forms, DAL, Modelos, Servicios).
+- `proyectoEmpresaBD` — código fuente completo de la aplicación (Web Forms, DAL, Modelos, Servicios).
 - `EmpresaDB_Script_Final.sql` — script consolidado de creación de base de datos, tablas y procedimientos almacenados (estado final).
-- `Respuestas_Preguntas_Teoricas.docx` — respuestas a las preguntas teóricas de la prueba (migración SQL Server 2000/2005 → 2022).
+- `evidencias_preguntas` — respuestas a las preguntas teóricas de la prueba (migración SQL Server 2000/2005 → 2022) y pantallazos.
 - `README.md` — este documento.
 
 ## 1. Requisitos previos
